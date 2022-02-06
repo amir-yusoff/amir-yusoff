@@ -14,6 +14,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
+</br>
 
 ### Recent GitHub Activity
 
@@ -57,12 +58,6 @@
 
 
 <img align="left" alt="Amir's GitHub Stats" src="https://github-readme-stats-amir-yusoff.vercel.app/api?username=amir-yusoff&show_icons=true&hide_border=true" />
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amir-yusoff&show_icons=true&locale=en&layout=compact" alt="amir-yusoff" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amir-yusoff&show_icons=true&locale=en" alt="amir-yusoff" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amir-yusoff&" alt="amir-yusoff" /></p>
 
 
 
