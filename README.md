@@ -1,9 +1,14 @@
 # 👋 Hi there, I'm [Amir][website]  
 
-![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+ <a href="https://linkedin.com/in/amiryusoff">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto: amir.myusoff@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
+  </a>&nbsp;&nbsp;
 
-
+</br>
+</br>
 
 ## 🧑‍💻 I'm a Computer Engineer | Tech Enthusiast | Maker
 
@@ -66,4 +71,3 @@
 [instagram]: https://instagram.com/amiryusoff_
 [linkedin]: https://linkedin.com/in/amiryusoff
 [unikl]: https://www.miit.unikl.edu.my/
-[email]: mailto: amir.myusoff@gmail.com
