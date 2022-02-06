@@ -56,11 +56,11 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amir-yusoff&theme=dark&count_private=true&theme=dark)](https://github.com/amir-yusoff)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amir-yusoff&theme=dark&count_private=true&theme=dark&hide_border=true)](https://github.com/amir-yusoff)
 
 [![GitHub Stats](https://github-readme-stats-amir-yusoff.vercel.app/api?username=amir-yusoff&show_icons=true&hide_border=true&theme=dark)](https://github.com/amir-yusoff)
 
-[![Top Langs](https://github-readme-stats-amir-yusoff.vercel.app/api/top-langs/?username=amir-yusoff&layout=compact&theme=dark)](https://github.com/amir-yusoff/github-readme-stats)
+[![Top Langs](https://github-readme-stats-amir-yusoff.vercel.app/api/top-langs/?username=amir-yusoff&layout=compact&hide_border=true&theme=dark)](https://github.com/amir-yusoff/github-readme-stats)
 
 
 ## 🎧 Spotify Now Playing
