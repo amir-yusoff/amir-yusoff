@@ -21,11 +21,11 @@
 ## ⚡Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-2. ⭐ Starred [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 📔 Created new repository [amir-yusoff/amir-yusoff](https://github.com/amir-yusoff/amir-yusoff)
-4. ⭐ Starred [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
-5. 🔱 Forked [amir-yusoff/github-readme-stats](https://github.com/amir-yusoff/github-readme-stats) from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+1. 🔱 Forked [amir-yusoff/novatorem](https://github.com/amir-yusoff/novatorem) from [novatorem/novatorem](https://github.com/novatorem/novatorem)
+2. ⭐ Starred [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+3. ⭐ Starred [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 📔 Created new repository [amir-yusoff/amir-yusoff](https://github.com/amir-yusoff/amir-yusoff)
+5. ⭐ Starred [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 <!--RECENT_ACTIVITY:end-->
 
 ---
