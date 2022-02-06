@@ -60,6 +60,8 @@
 
 [![GitHub Stats](https://github-readme-stats-amir-yusoff.vercel.app/api?username=amir-yusoff&show_icons=true&hide_border=true&theme=dark)](https://github.com/amir-yusoff)
 
+[![Top Langs](https://github-readme-stats-amir-yusoff.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/amir-yusoff/github-readme-stats)
+
 
 ## 🎧 Spotify Now Playing
 
