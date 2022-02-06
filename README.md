@@ -65,9 +65,9 @@
 [![GitHub Stats](https://github-readme-stats-amir-yusoff.vercel.app/api?username=amir-yusoff&show_icons=true&hide_border=true&theme=dark)](https://github.com/amir-yusoff)
 
 
-## Spotify Now Playing
+## 🎧 Spotify Now Playing
 
-[![Spotify](https://novatorem-amir-yusoff.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/amirmyusoff)
+[![Spotify](https://novatorem-amir-yusoff.vercel.app/api/spotify)](https://open.spotify.com/user/amirmyusoff)
 
 
 [website]: https://amiryusoff.tech
