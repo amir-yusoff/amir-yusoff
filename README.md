@@ -1,10 +1,8 @@
 # 👋 Hi there, I'm [Amir][website]  
 
-[<img align="left" alt="Amir Yusoff | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
-[<img align="left" alt="Amir Yusoff | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
-[<img align="left" alt="Amir Yusoff | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
-</br>
-</br>
+![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 
 
 ## 🧑‍💻 I'm a Computer Engineer | Tech Enthusiast | Maker
@@ -68,3 +66,4 @@
 [instagram]: https://instagram.com/amiryusoff_
 [linkedin]: https://linkedin.com/in/amiryusoff
 [unikl]: https://www.miit.unikl.edu.my/
+[email]: mailto: amir.myusoff@gmail.com
