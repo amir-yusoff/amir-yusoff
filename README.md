@@ -8,20 +8,24 @@
 - 🥅 2022 Goals: Kickstart my carer in DEvOps / AI / ML / Data Analytics
 - ⚡ Computer/Embedded Engineer by trade, but i try to dwell in everything and anything tech
 
+---
 
-### Connect with me:
+### ⚡Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 </br>
 
-### Recent GitHub Activity
+---
+
+### ⚡Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 
+---
 
-### Languages and Tools:
+### ⚡Languages and Tools:
 
 <p align="left"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
