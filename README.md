@@ -57,7 +57,7 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=timothystewart6&theme=dark&count_private=true&theme=dark)](https://github.com/amir-yusoff)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amir-yusoff&theme=dark&count_private=true&theme=dark)](https://github.com/amir-yusoff)
 
 [![GitHub Stats](https://github-readme-stats-amir-yusoff.vercel.app/api?username=amir-yusoff&show_icons=true&hide_border=true&theme=dark)](https://github.com/amir-yusoff)
 
