@@ -1,20 +1,21 @@
-# Hi there, I'm [Amir][website] 👋 
+# 👋 Hi there, I'm [Amir][website]  
 
-
-### I'm a Computer Engineer | Tech Enthusiast | Maker
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
+[<img align="left" alt="Amir Yusoff | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+[<img align="left" alt="Amir Yusoff | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
+[<img align="left" alt="Amir Yusoff | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
+</br>
 </br>
 
-- 🔭 I'm currently doing my Masters in IT (AI/ML)
+
+## 🧑‍💻 I'm a Computer Engineer | Tech Enthusiast | Maker
+
+- 🔭 I'm currently doing my Masters in IT (AI/ML) at [UniKL][unikl]
 - 🌱 I’m trying my best to learn everything 🤣
-- 🥅 2022 Goals: Kickstart my carer in DEvOps / AI / ML / Data Analytics
+- 🥅 2022 Goals: Kickstart my carer in DevOps / AI / ML / Data Analytics
 - ⚡ Computer/Embedded Engineer by trade, but i try to dwell in everything and anything tech
 ---
 
-### ⚡Recent GitHub Activity
+## ⚡Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
@@ -26,7 +27,7 @@
 
 ---
 
-### ⚡Languages and Tools:
+## ⚡Languages and Tools:
 
 <p align="left"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
@@ -54,22 +55,11 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+## 📊 GitHub Stats
 
-<!--RECENT_ACTIVITY:start-->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=timothystewart6&theme=dark&count_private=true&theme=dark)](https://github.com/amir-yusoff)
 
-</details>
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-<img align="center" alt="Amir's GitHub Stats" src="https://github-readme-stats-amir-yusoff.vercel.app/api?username=amir-yusoff&show_icons=true&hide_border=true" />
-</details>
-
-
-
+[![GitHub Stats](https://github-readme-stats-amir-yusoff.vercel.app/api?username=amir-yusoff&show_icons=true&hide_border=true&theme=dark)](https://github.com/amir-yusoff)
 
 
 
@@ -77,3 +67,4 @@
 [twitter]: https://twitter.com/amiryusoff_
 [instagram]: https://instagram.com/amiryusoff_
 [linkedin]: https://linkedin.com/in/amiryusoff
+[unikl]: https://www.miit.unikl.edu.my/
