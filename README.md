@@ -5,8 +5,6 @@
   <a href="mailto: amir.myusoff@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
 
-</br>
-</br>
 
 ## 🧑‍💻 I'm a Computer Engineer | Tech Enthusiast | Maker
 
