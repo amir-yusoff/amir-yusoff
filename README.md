@@ -12,6 +12,17 @@
 - 🌱 I’m trying my best to learn everything 🤣
 - 🥅 2022 Goals: Kickstart my carer in DEvOps / AI / ML / Data Analytics
 - ⚡ Computer/Embedded Engineer by trade, but i try to dwell in everything and anything tech
+---
+
+### ⚡Recent GitHub Activity
+
+<!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+2. ⭐ Starred [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 📔 Created new repository [amir-yusoff/amir-yusoff](https://github.com/amir-yusoff/amir-yusoff)
+4. ⭐ Starred [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+5. 🔱 Forked [amir-yusoff/github-readme-stats](https://github.com/amir-yusoff/github-readme-stats) from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+<!--RECENT_ACTIVITY:end-->
 
 ---
 
