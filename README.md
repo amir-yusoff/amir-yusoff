@@ -17,11 +17,11 @@
 ## ⚡Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [amir-yusoff/location-history-heatmap](https://github.com/amir-yusoff/location-history-heatmap)
-2. 📔 Created new repository [amir-yusoff/location-history-heatmap](https://github.com/amir-yusoff/location-history-heatmap)
-3. 🔱 Forked [amir-yusoff/novatorem](https://github.com/amir-yusoff/novatorem) from [novatorem/novatorem](https://github.com/novatorem/novatorem)
-4. ⭐ Starred [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-5. ⭐ Starred [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 📔 Created new repository [amir-yusoff/cnn-hand-gesture-recognition](https://github.com/amir-yusoff/cnn-hand-gesture-recognition)
+2. 📔 Created new repository [amir-yusoff/cnn-hand-gesture-recognition](https://github.com/amir-yusoff/cnn-hand-gesture-recognition)
+3. 📔 Created new repository [amir-yusoff/location-history-heatmap](https://github.com/amir-yusoff/location-history-heatmap)
+4. 📔 Created new repository [amir-yusoff/location-history-heatmap](https://github.com/amir-yusoff/location-history-heatmap)
+5. 🔱 Forked [amir-yusoff/novatorem](https://github.com/amir-yusoff/novatorem) from [novatorem/novatorem](https://github.com/novatorem/novatorem)
 <!--RECENT_ACTIVITY:end-->
 
 ---
