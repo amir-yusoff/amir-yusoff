@@ -17,10 +17,10 @@
 ## ⚡Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [amir-yusoff/malaysia-population-density-map](https://github.com/amir-yusoff/malaysia-population-density-map)
-2. 📔 Created new repository [amir-yusoff/cnn-hand-gesture-recognition](https://github.com/amir-yusoff/cnn-hand-gesture-recognition)
+1. ⭐ Starred [3b1b/videos](https://github.com/3b1b/videos)
+2. 📔 Created new repository [amir-yusoff/malaysia-population-density-map](https://github.com/amir-yusoff/malaysia-population-density-map)
 3. 📔 Created new repository [amir-yusoff/cnn-hand-gesture-recognition](https://github.com/amir-yusoff/cnn-hand-gesture-recognition)
-4. 📔 Created new repository [amir-yusoff/location-history-heatmap](https://github.com/amir-yusoff/location-history-heatmap)
+4. 📔 Created new repository [amir-yusoff/cnn-hand-gesture-recognition](https://github.com/amir-yusoff/cnn-hand-gesture-recognition)
 5. 📔 Created new repository [amir-yusoff/location-history-heatmap](https://github.com/amir-yusoff/location-history-heatmap)
 <!--RECENT_ACTIVITY:end-->
 
