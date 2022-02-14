@@ -17,10 +17,10 @@
 ## ⚡Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
-2. ⭐ Starred [3b1b/videos](https://github.com/3b1b/videos)
-3. 📔 Created new repository [amir-yusoff/malaysia-population-density-map](https://github.com/amir-yusoff/malaysia-population-density-map)
-4. 📔 Created new repository [amir-yusoff/cnn-hand-gesture-recognition](https://github.com/amir-yusoff/cnn-hand-gesture-recognition)
+1. ⭐ Starred [WrenVin/Yearly_Daylight_Latitude](https://github.com/WrenVin/Yearly_Daylight_Latitude)
+2. ⭐ Starred [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
+3. ⭐ Starred [3b1b/videos](https://github.com/3b1b/videos)
+4. 📔 Created new repository [amir-yusoff/malaysia-population-density-map](https://github.com/amir-yusoff/malaysia-population-density-map)
 5. 📔 Created new repository [amir-yusoff/cnn-hand-gesture-recognition](https://github.com/amir-yusoff/cnn-hand-gesture-recognition)
 <!--RECENT_ACTIVITY:end-->
 
