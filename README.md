@@ -1,32 +1,32 @@
-# 👋 Hi there, I'm [Amir][website]  
+<p>
+  <h1 align="center"><b>Hi there, I'm Amir 👋</h1>
+  <h2 align="center"><b>I'm a Computer Engineer | Tech Enthusiast | Maker</h2>
+</p>
 
+<p align="center">
  <a href="https://linkedin.com/in/amiryusoff" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="mailto: amir.myusoff@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
+</p>
+<br/>
 
 
-## 🧑‍💻 I'm a Computer Engineer | Tech Enthusiast | Maker
+<h2 align="center">About me</h2>
+<p align="center">
+Timezone: Asia/Kuala Lumpur (GMT +8)
+</p>
 
 - 🔭 I'm currently doing my Masters in IT (AI/ML) at [UniKL][unikl]
 - 🌱 I’m trying my best to learn everything 🤣
 - 🥅 2022 Goals: Kickstart my carer in DevOps / AI / ML / Data Analytics
 - ⚡ Computer/Embedded Engineer by trade, but i try to dwell in everything and anything tech
----
 
-## ⚡Recent GitHub Activity
 
-<!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [WrenVin/Yearly_Daylight_Latitude](https://github.com/WrenVin/Yearly_Daylight_Latitude)
-2. ⭐ Starred [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
-3. ⭐ Starred [3b1b/videos](https://github.com/3b1b/videos)
-4. 📔 Created new repository [amir-yusoff/malaysia-population-density-map](https://github.com/amir-yusoff/malaysia-population-density-map)
-5. 📔 Created new repository [amir-yusoff/cnn-hand-gesture-recognition](https://github.com/amir-yusoff/cnn-hand-gesture-recognition)
-<!--RECENT_ACTIVITY:end-->
-
----
-
-## ⚡Languages and Tools:
+</br>
+<p>
+<h3 align="center">⚡Languages and Tools</h3>
+</p>
 
 <p align="left"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
@@ -56,12 +56,28 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amir-yusoff&theme=dark&count_private=true&theme=dark&hide_border=true)](https://github.com/amir-yusoff)
+<br />
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amir-yusoff&theme=dark&count_private=true&theme=dark&hide_border=true" width="400" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats-amir-yusoff.vercel.app/api?username=amir-yusoff&show_icons=true&hide_border=true&theme=dark" width="400" />
+<img src="https://github-readme-stats-amir-yusoff.vercel.app/api/top-langs/?username=amir-yusoff&layout=compact&hide_border=true&theme=dark" width="400" />
+</p>
 
-[![GitHub Stats](https://github-readme-stats-amir-yusoff.vercel.app/api?username=amir-yusoff&show_icons=true&hide_border=true&theme=dark)](https://github.com/amir-yusoff)
+---
 
-[![Top Langs](https://github-readme-stats-amir-yusoff.vercel.app/api/top-langs/?username=amir-yusoff&layout=compact&hide_border=true&theme=dark)](https://github.com/amir-yusoff/github-readme-stats)
+## ⚡Recent GitHub Activity
 
+<!--RECENT_ACTIVITY:start-->
+1. 📔 Created new repository [amir-yusoff/cnn-hand-gesture-recognition](https://github.com/amir-yusoff/cnn-hand-gesture-recognition)
+2. 📔 Created new repository [amir-yusoff/cnn-hand-gesture-recognition](https://github.com/amir-yusoff/cnn-hand-gesture-recognition)
+3. 📔 Created new repository [amir-yusoff/location-history-heatmap](https://github.com/amir-yusoff/location-history-heatmap)
+4. 📔 Created new repository [amir-yusoff/location-history-heatmap](https://github.com/amir-yusoff/location-history-heatmap)
+5. 🔱 Forked [amir-yusoff/novatorem](https://github.com/amir-yusoff/novatorem) from [novatorem/novatorem](https://github.com/novatorem/novatorem)
+<!--RECENT_ACTIVITY:end-->
+
+---
 
 ## 🎧 Spotify Now Playing
 
