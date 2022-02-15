@@ -54,7 +54,10 @@ Timezone: Asia/Kuala Lumpur (GMT +8)
 
 ---
 
-## 📊 GitHub Stats
+</br>
+<p>
+<h3 align="center">📊 GitHub Stats</h3>
+</p>
 
 <br />
 <p align="center">
@@ -67,7 +70,10 @@ Timezone: Asia/Kuala Lumpur (GMT +8)
 
 ---
 
-## ⚡Recent GitHub Activity
+</br>
+<p>
+<h3 align="center">⚡Recent GitHub Activity</h3>
+</p> 
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [WrenVin/Yearly_Daylight_Latitude](https://github.com/WrenVin/Yearly_Daylight_Latitude)
@@ -79,9 +85,16 @@ Timezone: Asia/Kuala Lumpur (GMT +8)
 
 ---
 
-## 🎧 Spotify Now Playing
+</br>
+<p>
+<h3 align="center">🎧 Spotify Now Playing</h3>
+</p>
 
-[![Spotify](https://novatorem-amir-yusoff.vercel.app/api/spotify)](https://open.spotify.com/user/amirmyusoff)
+<p align="center">
+<img src="https://novatorem-amir-yusoff.vercel.app/api/spotify" width="400" />
+</p>
+
+
 
 
 [website]: https://amiryusoff.tech
