@@ -127,11 +127,11 @@ Timezone: Asia/Kuala Lumpur (GMT +8)
 </p> 
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [amir-yusoff/python-training-miniproject](https://github.com/amir-yusoff/python-training-miniproject)
+1. ⭐ Starred [amir-yusoff/python-training-miniproject](https://github.com/amir-yusoff/python-training-miniproject)
 2. 📔 Created new repository [amir-yusoff/python-training-miniproject](https://github.com/amir-yusoff/python-training-miniproject)
-3. ⭐ Starred [WrenVin/Yearly_Daylight_Latitude](https://github.com/WrenVin/Yearly_Daylight_Latitude)
-4. ⭐ Starred [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
-5. ⭐ Starred [3b1b/videos](https://github.com/3b1b/videos)
+3. 📔 Created new repository [amir-yusoff/python-training-miniproject](https://github.com/amir-yusoff/python-training-miniproject)
+4. ⭐ Starred [WrenVin/Yearly_Daylight_Latitude](https://github.com/WrenVin/Yearly_Daylight_Latitude)
+5. ⭐ Starred [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
 <!--RECENT_ACTIVITY:end-->
 
 ---
