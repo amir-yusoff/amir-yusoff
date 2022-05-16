@@ -127,11 +127,11 @@ Timezone: Asia/Kuala Lumpur (GMT +8)
 </p> 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mbugert/latex-network-diagram-template](https://github.com/mbugert/latex-network-diagram-template)
-2. ⭐ Starred [gcormier/megadesk](https://github.com/gcormier/megadesk)
-3. ⭐ Starred [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-4. ⭐ Starred [amir-yusoff/python-training-miniproject](https://github.com/amir-yusoff/python-training-miniproject)
-5. 📔 Created new repository [amir-yusoff/python-training-miniproject](https://github.com/amir-yusoff/python-training-miniproject)
+1. 📔 Created new repository [amir-yusoff/amir-yusoff.github.io](https://github.com/amir-yusoff/amir-yusoff.github.io)
+2. ⭐ Starred [mbugert/latex-network-diagram-template](https://github.com/mbugert/latex-network-diagram-template)
+3. ⭐ Starred [gcormier/megadesk](https://github.com/gcormier/megadesk)
+4. ⭐ Starred [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+5. ⭐ Starred [amir-yusoff/python-training-miniproject](https://github.com/amir-yusoff/python-training-miniproject)
 <!--RECENT_ACTIVITY:end-->
 
 ---
